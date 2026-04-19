@@ -1,0 +1,2 @@
+# This file allows the following packages to run their build scripts
+- sharp@0.34.5
